@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map open="true">
+    <list URL="/article/addOrUpdate.json">
+    </list>
+    <list URL="/category/addCategory.json">
+    </list>
+</map>
